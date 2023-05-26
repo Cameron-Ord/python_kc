@@ -7,3 +7,13 @@ for string in strings:
 
 for num in x:
     print('look at this number', num)
+
+
+
+def static_greeting():
+    print('hello Cameron')
+
+static_greeting()
+
+
+
