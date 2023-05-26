@@ -23,3 +23,12 @@ elif(y >= 100 or bo == True):
     ('large or true')
 else:
     print('i dont know')    
+
+
+
+x = [1,2,3,4,5,6,7,8,9,10]
+
+strings = ['string1', 'string2', 'string3']
+
+for num in x:
+    print(num)
